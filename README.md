@@ -86,6 +86,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Deep Chat is a decentralized and highly secure peer-to-peer chat application that provides end-to-end encryption and anonymity for its users. The application uses Tor as the underlying network layer to ensure that all communications are routed through multiple relays Built on top of werogg/DeProtocol.
 
 DeProtcol is a decentralized and highly secure peer-to-peer protocol that provides end-to-end encryption and anonymity for its users. It uses Tor as the underlying network layer to ensure that all communications are routed through multiple relays, making it virtually impossible for anyone to trace the communication back to their origin.
 
